@@ -7,47 +7,47 @@ Agente de Inovação e Product Designer na Ventura Makers, implantando e modelan
 
 
 ## <b>Minhas Habilidades</b>
-✔ HTML5 :star::star::star::star::star::star::star::star::star: /10<br>
+✔ HTML5 :star::star::star::star::star::star::star: 7/10<br>
 
-✔ CSS3 :star::star::star::star::star::star::star::star::star: /10<br>
+✔ CSS3 :star::star::star::star::star::star::star::star: 8/10<br>
 
-✔ Javascript :star::star::star::star::star::star::star::star::star: /10<br>
+✔ Javascript :star::star::star::star::star::star::star: 7/10<br>
 
-✔ Bootstrap :star::star::star::star::star::star::star::star::star: /10<br>
+✔ Bootstrap :star::star::star::star::star::star::star::star: 8/10<br>
 
-✔ Wordpress :star::star::star::star::star::star::star::star::star: /10<br>
+✔ Wordpress :star::star::star::star::star::star::star::star: 8/10<br>
 
-✔ MySQL :star::star::star::star::star::star::star::star::star: /10<br>
+✔ MySQL :star::star::star::star::star::star: 6/10<br>
 
-✔ Técnicas SEO :star::star::star::star::star::star::star::star::star: /10<br>
-
-
-✔ Rest API :star::star::star::star::star::star::star::star::star: /10<br>
-
-✔ NuxtJS :star::star::star::star::star::star::star::star::star: /10<br>
-
-✔ VueJS :star::star::star::star::star::star::star::star::star: /10<br>
-
-✔ Vuetify :star::star::star::star::star::star::star::star::star: /10<br>
-
-✔ Desenvolvimento SPA & PWA :star::star::star::star::star::star::star::star::star: /10<br>
-
-✔ Sass :star::star::star::star::star::star::star::star::star: /10<br>
-
-✔ NodeJS :star::star::star::star::star::star::star::star::star: /10<br>
+✔ Técnicas SEO :star::star::star::star::star::star::star::star: 8/10<br>
 
 
-✔ Mongo DB :star::star::star::star::star::star::star::star::star: /10<br>
+✔ Rest API :star::star::star::star::star: 5/10<br>
 
-✔ Testes E2E :star::star::star::star::star::star::star::star::star: /10<br>
+✔ NuxtJS :star::star::star::star::star::star::star::star: 8/10<br>
 
-✔ Less :star::star::star::star::star::star::star::star::star: /10<br>
+✔ VueJS :star::star::star::star::star::star::star: 7/10<br>
 
-✔ Ionic :star::star::star::star::star::star::star::star::star: /10<br>
+✔ Vuetify :star::star::star::star::star::star::star: 7/10<br>
 
-✔ React :star::star::star::star::star::star::star::star::star: /10<br>
+✔ Desenvolvimento SPA & PWA :star::star::star::star::star::star::star: 7/10<br>
 
-✔ Typescript :star::star::star::star::star::star::star::star::star: /10<br><br><br>
+✔ Sass :star::star::star::star::star::star::star: 7/10<br>
+
+✔ NodeJS :star::star::star::star::star: 5/10<br>
+
+
+✔ Mongo DB :star::star::star::star::star: 5/10<br>
+
+✔ Testes E2E :star::star::star::star: 4/10<br>
+
+✔ Less :star::star::star::star: 3/10<br>
+
+✔ Ionic :star::star::star::star::star::star: 6/10<br>
+
+✔ React :star::star::star: 3/10<br>
+
+✔ Typescript :star::star::star::star::star::star: 6/10<br><br><br>
 
 
 
