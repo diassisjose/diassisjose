@@ -102,12 +102,11 @@ _Dueto Agência Digital_ | 2014-2021<br>
 ✔ Wireless<br>
 
 
-_Projeto desenvolvido:_ <b>Dueto Agência Digital</b>
+_Projeto desenvolvido:_ <b><a href="https://agenciadueto.netlify.app/" target="_blank">Dueto Agência Digital</a></b>
 ### _Front-end_
 ✔ NuxtJS<br>
 ✔ Bootstrap<br>
 ✔ Sass<br>
-[go](https://agenciadueto.netlify.app/){:target="_blank"}
 
 
 
