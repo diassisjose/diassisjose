@@ -51,8 +51,6 @@ Agente de Inovação e Product Designer na Ventura Makers, implantando e modelan
 ✔ Typescript :star::star::star::star::star::star: 6/10<br><br><br>
 
 
-
-
 ## <b>Experiência Profissional</b>
 ### **Desenvolvedor Web**<br>
 _Dueto Agência Digital_ | 2016-2021<br>
@@ -99,15 +97,34 @@ _Dueto Agência Digital_ | 2014-2021<br>
 ✔ Netcat<br>
 ✔ Metasploit: client-side & server-side<br>
 ✔ Spoofing e MITM<br>
-✔ Wireless<br>
+✔ Wireless<br><br><br>
 
 
 _Projeto desenvolvido:_ <b><a href="https://agenciadueto.netlify.app/" target="_blank">Dueto Agência Digital</a></b>
 ### _Front-end_
 ✔ NuxtJS<br>
-✔ Bootstrap<br>
+✔ Bootstrap-vue<br>
 ✔ Sass<br>
+✔ Netlify<br>
+✔ NodeJS<br><br><br>
 
+_Projeto desenvolvido:_ <b><a href="https://www.venturainova.com.br" target="_blank">Ventura - Agentes de Inovação</a></b>
+### _Front-end_
+✔ NuxtJS<br>
+✔ Bootstrap-vue<br>
+✔ Sass<br>
+✔ Netlify<br>
+✔ NodeJS<br>
+✔ ExpressJS<br>
+
+_Projeto desenvolvido:_ <b><a href="https://norflor.com.br" target="_blank">Norflor - Empreendimentos Agrícolas</a></b>
+### _Front-end_
+✔ NuxtJS<br>
+✔ Bootstrap-vue<br>
+✔ Sass<br>
+✔ Netlify<br>
+✔ NodeJS<br>
+✔ API Wordpress<br><br><br>
 
 
 ## <b>Idiomas</b>
