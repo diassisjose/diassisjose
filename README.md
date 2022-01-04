@@ -102,16 +102,13 @@ _Dueto Agência Digital_ | 2014-2021<br>
 ✔ Wireless<br>
 
 
-_Projeto desenvolvido:_ <b>Bikcraft</b>
-
-### <b>Dueto Agência Digital</b>
+_Projeto desenvolvido:_ <b>Dueto Agência Digital</b>
 ### _Front-end_
 ✔ NuxtJS<br>
 ✔ Bootstrap<br>
 ✔ Sass<br>
-✔ PHP / MySQL<br>
+[go](https://agenciadueto.netlify.app/){:target="_blank"}
 
-_Projeto desenvolvido:_ <b>OLX - Dashboard</b><br><br>
 
 
 ## <b>Idiomas</b>
