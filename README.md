@@ -7,6 +7,7 @@ Agente de Inovação e Product Designer na Ventura Makers, implantando e modelan
 
 
 ## <b>Minhas Habilidades</b>
+### **Entre 6 a 8 anos de aplicação**<br>
 ✔ HTML5 :star::star::star::star::star::star::star: 7/10<br>
 
 ✔ CSS3 :star::star::star::star::star::star::star::star: 8/10<br>
@@ -19,9 +20,9 @@ Agente de Inovação e Product Designer na Ventura Makers, implantando e modelan
 
 ✔ MySQL :star::star::star::star::star::star: 6/10<br>
 
-✔ Técnicas SEO :star::star::star::star::star::star::star::star: 8/10<br>
+✔ Técnicas SEO :star::star::star::star::star::star::star::star: 8/10<br><br>
 
-
+### **Entre 3 a 4 anos de aplicação**<br>
 ✔ Rest API :star::star::star::star::star: 5/10<br>
 
 ✔ NuxtJS :star::star::star::star::star::star::star::star: 8/10<br>
@@ -34,9 +35,9 @@ Agente de Inovação e Product Designer na Ventura Makers, implantando e modelan
 
 ✔ Sass :star::star::star::star::star::star::star: 7/10<br>
 
-✔ NodeJS :star::star::star::star::star: 5/10<br>
+✔ NodeJS :star::star::star::star::star: 5/10<br><br>
 
-
+### **Entre 6 meses a 2 anos de aplicação**<br>
 ✔ Mongo DB :star::star::star::star::star: 5/10<br>
 
 ✔ Testes E2E :star::star::star::star: 4/10<br>
