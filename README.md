@@ -1,6 +1,6 @@
 
 # <b>[Diassis José](https://www.linkedin.com/in/diassisjose/)</b>
-Iniciando como Pentester Junior e Cyber Exploitation Analyst Junior.
+Analista de Cibersegurança JR,  Analista de Privacidade e Proteção de Dados, Pentester Junior e Cyber Exploitation Analyst Junior.
 Desenvolvedor Frontend, UX Designer e Diretor de Criação na Dueto Agência Digital, utilizando BSC, Design Thinking e Value Proposition Design para direcionar as ações.
 Agente de Inovação e Product Designer na Ventura Makers, implantando e modelando negócios utilizando as diretrizes e inovação do Design Thinking.
 <br><br><br>
