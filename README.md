@@ -65,8 +65,8 @@ _Dueto Agência Digital_ | 2014-2021<br>
 * Manipulação de plugins e API Wp.<br><br><br>
 
 ## <b>Certificações</b>
-### <b>Analista de Segurança da Informação JR - <a href="https://ead.esecurity.com.br/mod/customcert/verify_certificate.php" target="_blank">eSecurity | Validação: L1jAKPwYny</b>
-### <b>Certificação Analista de Privacidade e Proteção de Dados Profissional - <a href="" target="_blank">IBSEC | Validação: 83149169</b>
+### <b>Analista de Segurança da Informação JR - <a href="https://ead.esecurity.com.br/mod/customcert/verify_certificate.php" target="_blank">eSecurity</a> | Validação: L1jAKPwYny</b>
+### <b>Certificação Analista de Privacidade e Proteção de Dados Profissional - <a href="" target="_blank">IBSEC</a> | Validação: 83149169</b>
 
 ## <b>Estudos / Cursos</b>
 ### <b>Alan Sanches - eSecurity</b>
