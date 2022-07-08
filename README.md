@@ -64,8 +64,15 @@ _Dueto Agência Digital_ | 2014-2021<br>
 * Adaptação e alteração de temas com HTML, CSS, JS. 
 * Manipulação de plugins e API Wp.<br><br><br>
 
+## <b>Certificações</b>
+### <b>Analista de Segurança da Informação JR - <a href="https://ead.esecurity.com.br/mod/customcert/verify_certificate.php" target="_blank">eSecurity | Validação: L1jAKPwYny</b>
+### <b>Certificação Analista de Privacidade e Proteção de Dados Profissional - <a href="" target="_blank">IBSEC | Validação: 83149169</b>
 
 ## <b>Estudos / Cursos</b>
+### <b>Alan Sanches - eSecurity</b>
+### _Analista de Segurança da Informação JR_
+✔ Ementa completa -> https://esecurity.com.br/cursos/formacao-analista-seguranca-da-informacao<br>
+
 ### <b>Stefan Sales - Stefanini Brasil - Udemy</b>
 ### _Cyber Security_
 ✔ Ciberataques e características<br>
