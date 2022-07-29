@@ -1,12 +1,12 @@
 
 # <b>[Diassis José](https://www.linkedin.com/in/diassisjose/)</b>
-Analista de Cibersegurança JR, Analista SOC Profissional,  Analista de Privacidade e Proteção de Dados, Pentester Junior.<br>
-Desenvolvedor Frontend apaixonado por VueJS, UX Designer e Diretor de Criação na Dueto Agência Digital, utilizando BSC, Design Thinking e Value Proposition Design para direcionar as ações.<br>
-Agente de Inovação e Product Designer na Ventura Makers, implantando e modelando negócios utilizando as diretrizes do Design Thinking.
+Analista de Cibersegurança JR, Analista SOC, Analista de Privacidade e Proteção de Dados, Pentester Junior.<br>
+Desenvolvedor Frontend apaixonado por VueJS, UX Designer e Diretor de Criação.<br>
+Agente de Inovação e Product Designer, utilizando ferramentas como BSC, Design Thinking e Value Proposition Design para direcionar ações e análises.
 <br><br><br>
 
 
-## <b>Minhas Habilidades</b>
+## <b>Minhas Habilidades Dev</b>
 ### **Entre 6 a 8 anos de aplicação**<br>
 ✔ HTML5 :star::star::star::star::star::star::star: 7/10<br>
 
