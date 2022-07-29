@@ -1,8 +1,8 @@
 
 # <b>[Diassis José](https://www.linkedin.com/in/diassisjose/)</b>
-Analista de Cibersegurança JR,  Analista de Privacidade e Proteção de Dados, Pentester Junior e Cyber Exploitation Analyst Junior.
-Desenvolvedor Frontend, UX Designer e Diretor de Criação na Dueto Agência Digital, utilizando BSC, Design Thinking e Value Proposition Design para direcionar as ações.
-Agente de Inovação e Product Designer na Ventura Makers, implantando e modelando negócios utilizando as diretrizes e inovação do Design Thinking.
+Analista de Cibersegurança JR, Analista SOC Profissional,  Analista de Privacidade e Proteção de Dados, Pentester Junior.
+Desenvolvedor Frontend apaixonado por VueJS, UX Designer e Diretor de Criação na Dueto Agência Digital, utilizando BSC, Design Thinking e Value Proposition Design para direcionar as ações.
+Agente de Inovação e Product Designer na Ventura Makers, implantando e modelando negócios utilizando as diretrizes do Design Thinking.
 <br><br><br>
 
 
@@ -66,7 +66,9 @@ _Dueto Agência Digital_ | 2014-2021<br>
 
 ## <b>Certificações</b>
 ### <b>Analista de Segurança da Informação JR - <a href="https://ead.esecurity.com.br/mod/customcert/verify_certificate.php" target="_blank">eSecurity</a> | Validação: L1jAKPwYny</b>
-### <b>Certificação Analista de Privacidade e Proteção de Dados Profissional - <a href="" target="_blank">IBSEC</a> | Validação: 83149169<br><br><br>
+### <b>Certificação Analista SOC Profissional - <a href="https://ibsec.com.br" target="_blank">IBSEC</a> | Validação: 43799768<br>
+### <b>Certificação Analista de Cibersegurança (Governança) Associado - <a href="https://ibsec.com.br" target="_blank">IBSEC</a> | Validação: 57917795<br>
+### <b>Certificação Analista de Privacidade e Proteção de Dados Profissional - <a href="https://ibsec.com.br" target="_blank">IBSEC</a> | Validação: 83149169<br><br><br>
 
 ## <b>Estudos / Cursos</b>
 ### <b>Alan Sanches - eSecurity</b>
