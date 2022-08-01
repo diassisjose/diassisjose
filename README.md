@@ -48,6 +48,8 @@ Agente de Inovação e Product Designer, utilizando ferramentas como BSC, Design
 
 ✔ React :star::star::star: 3/10<br>
 
+✔ TailwindCSS :star::star::star: 3/10<br>
+
 ✔ Typescript :star::star::star::star::star::star: 6/10<br><br><br>
 
 
